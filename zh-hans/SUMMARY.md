@@ -4,6 +4,8 @@
 
 * [常见问题](faq.md)
 
+* [App 支持](support.md)
+
 ## 使用插件
 
 * [最近长截图挂件](guide-widget.md)

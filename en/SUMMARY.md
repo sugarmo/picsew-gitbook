@@ -4,6 +4,8 @@
 
 * [FAQ](faq.md)
 
+* [App Support](support.md)
+
 ## Using Extension
 
 * [Recent Scrollshot Widget](guide-widget.md)
